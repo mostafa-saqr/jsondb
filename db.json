@@ -1,24 +1,5 @@
 {
-"profiles":[
-    {
-        "id": 1,
-        "name":"mostafa saqr",
-        "gender":"male",
-        "age":33
-    },
-    {
-        "id": 2,
-        "name":"sara",
-        "gender":"female",
-        "age":24
-    },
-    {
-        "id": 3,
-        "name":"mahmoud",
-        "gender":"male",
-        "age":24
-    }
-]
+"categories":[{"id":"3","productId":"989","productName":"Alphabet Balloons","categoryId":"45","categoryName":"Balloons","storeId":"95"},{"id":"5","productId":"989","productName":"Alphabet Balloons","categoryId":"5","categoryName":"Anniversary Gifts","storeId":"95"},{"id":"7","productId":"989","productName":"Alphabet Balloons","categoryId":"6","categoryName":"Birthday Gifts","storeId":"95"},{"id":"9","productId":"989","productName":"Alphabet Balloons","categoryId":"7","categoryName":"Congratulations Gifts","storeId":"95"},{"id":"11","productId":"989","productName":"Alphabet Balloons","categoryId":"10","categoryName":"Thinking of You Gifts","storeId":"95"},{"id":"13","productId":"989","productName":"Alphabet Balloons","categoryId":"11","categoryName":"Thank You Gifts","storeId":"95"},{"id":"15","productId":"989","productName":"Alphabet Balloons","categoryId":"12","categoryName":"Love & Romantic Gifts","storeId":"95"},{"id":"17","productId":"989","productName":"Alphabet Balloons","categoryId":"14","categoryName":"I'm Sorry Gifts","storeId":"95"},{"id":"19","productId":"989","productName":"Alphabet Balloons","categoryId":"17","categoryName":"Newborn Gifts","storeId":"95"},{"id":"21","productId":"989","productName":"Alphabet Balloons","categoryId":"16","categoryName":"Housewarming Gifts","storeId":"95"},{"id":"23","productId":"989","productName":"Alphabet Balloons","categoryId":"15","categoryName":"Wedding Gifts","storeId":"95"},{"id":"717","productId":"989","productName":"Alphabet Balloons","categoryId":"79","categoryName":"International Women's Day","storeId":"95"},{"id":"1544","productId":"989","productName":"Alphabet Balloons","categoryId":"98","categoryName":"joi Recommends","storeId":"95"},{"id":"1877","productId":"989","productName":"Alphabet Balloons","categoryId":"112","categoryName":"Father's Day Gifts","storeId":"95"},{"id":"3236","productId":"989","productName":"Alphabet Balloons","categoryId":"134","categoryName":"Balloons","storeId":"95"},{"id":"4316","productId":"989","productName":"Alphabet Balloons","categoryId":"166","categoryName":"All Unique Gifts","storeId":"95"},{"id":"5405","productId":"989","productName":"Alphabet Balloons","categoryId":"174","categoryName":"Gifts for Teachers","storeId":"95"},{"id":"8001","productId":"989","productName":"Alphabet Balloons","categoryId":"113","categoryName":"The Big Eid Gift Sale","storeId":"95"},{"id":"8032","productId":"989","productName":"Alphabet Balloons","categoryId":"151","categoryName":"Unique Gifts","storeId":"95"}]
 
 
 }
